@@ -1,0 +1,63 @@
+{
+    "more_results_available": false,
+    "short_addresses": [
+        {
+            "id": "TVJGfjcuNzMwRk9NUkZDUXptQndBQUFBQUJBd0VBQUFBQnJwOUdFZ0FnQUFBQUFBQUFNUUFBLi45a0FBQUFBUC4uLi44QUFBQUFBQUFBQUFBQUFBQUFBQUJ1TVRjM1pIRUFBQUFBQUEtLX42fjEwMA",
+            "potential_address": "1 Daubeney Gardens, LONDON N17 7DQ",
+            "house_number": "Flat 1",
+            "post_code":"N17 7DQ",
+            "house_name": "Corel Block",
+            "street_name": "Minter Street",
+            "county":"London",
+            "city":"Haringey",
+            "address_reference":"UKE1 QD"
+            
+
+        },
+        {
+            "id": "TVJGfjcuNzMwZ09NUkZDUXptQndBQUFBQUJBd0VBQUFBQnJwOUdFZ0FnQUFBQUFBQUFNZ0FBLi45a0FBQUFBUC4uLi44QUFBQUFBQUFBQUFBQUFBQUFBQUJ1TVRjM1pIRUFBQUFBQUEtLX42fjEwMA",
+            "potential_address": "2 Daubeney Gardens, LONDON N17 7DQ",
+            "house_number": "Flat 2",
+            "post_code":"N17 7DQ",
+            "house_name": "Corel Block",
+            "street_name": "Minter Street",
+            "county":"London",
+            "city":"Haringey",
+            "address_reference":"UKE2 QD"
+        },
+        {
+            "id": "TVJGfjcuNzMwak9NUkZDUXptQndBQUFBQUJBd0VBQUFBQnJwOUdFZ0FnQUFBQUFBQUFNd0FBLi45a0FBQUFBUC4uLi44QUFBQUFBQUFBQUFBQUFBQUFBQUJ1TVRjM1pIRUFBQUFBQUEtLX42fjEwMA",
+            "potential_address": "3 Daubeney Gardens, LONDON N17 7DQ",
+            "house_number": "Flat 3",
+            "post_code":"N17 7DQ",
+            "house_name": "Corel Block",
+            "street_name": "Minter Street",
+            "county":"London",
+            "city":"Haringey",
+            "address_reference":"UKE3 QD"
+        },
+        {
+            "id": "TVJGfjcuNzMwLk9NUkZDUXptQndBQUFBQUJBd0VBQUFBQnJwOUdFZ0FnQUFBQUFBQUFOQUFBLi45a0FBQUFBUC4uLi44QUFBQUFBQUFBQUFBQUFBQUFBQUJ1TVRjM1pIRUFBQUFBQUEtLX42fjEwMA",
+            "potential_address": "4 Daubeney Gardens, LONDON N17 7DQ",
+            "house_number": "Flat 4",
+            "post_code":"N17 7DQ",
+            "house_name": "Corel Block",
+            "street_name": "Minter Street",
+            "county":"London",
+            "city":"Haringey",
+            "address_reference":"UKE4 QD"
+        },
+        {
+            "id": "TVJGfjcuNzMwOE9NUkZDUXptQndBQUFBQUJBd0VBQUFBQnJwOUdFZ0FnQUFBQUFBQUFOUUFBLi45a0FBQUFBUC4uLi44QUFBQUFBQUFBQUFBQUFBQUFBQUJ1TVRjM1pIRUFBQUFBQUEtLX42fjEwMA",
+            "potential_address": "5 Daubeney Gardens, LONDON N17 7DQ",
+            "house_number": "Flat 5",
+            "post_code":"N17 7DQ",
+            "house_name": "Corel Block",
+            "street_name": "Minter Street",
+            "county":"London",
+            "city":"Haringey",
+            "address_reference":"UKE5 QD"
+        }
+     
+    ]
+}
